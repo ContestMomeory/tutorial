@@ -1,0 +1,9 @@
+This is a rainbow
+red
+orange
+yellow
+green
+cyan
+blue
+purple
+These are the colors of the rainbow
