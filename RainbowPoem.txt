@@ -7,4 +7,5 @@ purple
 brown
 blue
 unicorn
+bird
 These are the colors of the rainbow and the unicorn
