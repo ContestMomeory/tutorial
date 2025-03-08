@@ -1,4 +1,4 @@
-This is a rainbow and a unicorn
+This is a rainbow, pony, and a unicorn
 red
 orange
 green
@@ -6,4 +6,5 @@ yellow
 purple
 blue
 unicorn
-These are the colors of the rainbow and the unicorn
+pony
+These are the colors of the rainbow, pony and the unicorn
