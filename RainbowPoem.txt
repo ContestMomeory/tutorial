@@ -1,8 +1,9 @@
-This is a rainbow
+This is a rainbow and a unicorn
 red
 orange
 green
 yellow
 purple
 blue
-These are the colors of the rainbow
+unicorn
+These are the colors of the rainbow and the unicorn
