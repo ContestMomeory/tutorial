@@ -4,6 +4,7 @@ orange
 green
 yellow
 purple
+brown
 blue
 unicorn
 These are the colors of the rainbow and the unicorn
